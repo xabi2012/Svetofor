@@ -1,0 +1,47 @@
+
+body{
+    background: rgb(112, 255, 126);
+    
+}
+.olala{
+    border-radius: 20px;
+    margin: 17px auto;  
+background: rgb(0, 30, 189);
+text-align: center;
+width: 400px;
+color: rgb(245, 245, 245);
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+padding: 27px 0;
+}
+.list{
+    border-radius: 20px;
+
+background: rgb(4, 4, 4);
+width: 450px;
+margin: 0 auto;
+padding-top: 69px;
+padding-bottom: 68px;
+
+}
+.item{
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+border: 5px solid rgb(40, 225, 69);
+border-radius: 150px;
+margin: 0 auto;
+background: rgb(223, 54, 54);
+list-style: none;
+}
+.yellow{
+    background-color: yellow;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.green{
+    background-color: rgb(17, 233, 17);
+}
